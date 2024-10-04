@@ -12,7 +12,8 @@
     "@repo/ui": "*",
     "next": "^14.1.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "db": "*"
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^14.1.1",
@@ -24,8 +25,8 @@
     "@types/react-dom": "^18.2.19",
     "autoprefixer": "^10.4.20",
     "eslint": "^8.57.0",
-    "postcss": "^8.4.41",
-    "tailwindcss": "^3.4.10",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
     "typescript": "^5.3.3"
   },
   "description": "First, run the development server:",
